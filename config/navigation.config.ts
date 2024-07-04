@@ -13,10 +13,10 @@ export const legals = [
 export const socials = [
   { name: 'Drop me an email', href: 'mailto:gonzalopozzi@gmail.com' },
   { name: 'LinkedIn', href: 'https://www.linkedin.com/in/gpozzi/' },
-  { name: 'Twitter', href: 'https://www.twitter.com/@kmuenster' },
-  { name: 'GitHub', href: 'https://github.com/konstantinmuenster' },
-  { name: 'Medium', href: 'https://medium.com/@konstantinmuenster' },
+  { name: 'Twitter', href: '' },
+  { name: 'GitHub', href: '' },
+  { name: 'Medium', href: '' },
 ];
 
 export const FreshEyesAuditSchedulingLink =
-  'https://cal.com/konstantinmuenster/fresh-eyes-audit';
+  'https://cal.com/gonzalo-pozzi-9nkh3h';
