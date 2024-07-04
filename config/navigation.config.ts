@@ -2,7 +2,7 @@ export const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Proyectos', href: '/projects' },
   { name: 'Contenido', href: '/blog' },
-  // { name: 'Acerca de mi', href: '/about' },
+  { name: 'Acerca de mi', href: '/about' },
 ];
 
 export const legals = [
