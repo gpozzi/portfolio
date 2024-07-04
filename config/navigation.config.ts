@@ -12,7 +12,10 @@ export const legals = [
 
 export const socials = [
   { name: 'Escríbeme', href: 'mailto:gonzalopozzi@gmail.com' },
-  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/gpozzi/' }
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/gpozzi/' },
+  { name: 'Twitter', href: '' },
+  { name: 'GitHub', href: '' },
+  { name: 'Medium', href: '' },
 ];
 
 export const FreshEyesAuditSchedulingLink =
