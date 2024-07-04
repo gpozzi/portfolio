@@ -1,8 +1,8 @@
 export const navigation = [
   { name: 'Home', href: '/' },
-  { name: 'Case Studies', href: '/projects' },
-  { name: 'Content', href: '/blog' },
-  // { name: 'About', href: '/about' },
+  { name: 'Proyectos', href: '/projects' },
+  { name: 'Contenido', href: '/blog' },
+  // { name: 'Acerca de mi', href: '/about' },
 ];
 
 export const legals = [
@@ -11,11 +11,8 @@ export const legals = [
 ];
 
 export const socials = [
-  { name: 'Drop me an email', href: 'mailto:hey@konstantin.digital' },
-  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/konstantinmuenster/' },
-  { name: 'Twitter', href: 'https://www.twitter.com/@kmuenster' },
-  { name: 'GitHub', href: 'https://github.com/konstantinmuenster' },
-  { name: 'Medium', href: 'https://medium.com/@konstantinmuenster' },
+  { name: 'Escríbeme', href: 'mailto:gonzalopozzi@gmail.com' },
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/gpozzi/' }
 ];
 
 export const FreshEyesAuditSchedulingLink =
